@@ -5,15 +5,15 @@ body {
     transition: background-color 2s ease ;
     margin: 0;
     padding: 0;
-    display: flex;
     justify-content: center;
     align-items: center;
     height: 100vh;
 }
 
 h1 {
-    font-size: 1.8rem;
+    font-size: 2rem;
     color: #333;
+    margin-top: 20%;
 }
 
 p {

@@ -13,8 +13,7 @@ function backgroundChanges() {
 backgroundChanges()
 
 setTimeout(message, 3000);
-setInterval(backgroundChanges, 3000)
-
+setInterval(backgroundChanges, 3000);
 
 
 
